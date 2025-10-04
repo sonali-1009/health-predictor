@@ -3,7 +3,7 @@
 ### Deployed App
 
 The application is also deployed and accessible online. You can try the model and make predictions directly by visiting the following link:
-[Access the Deployed App](https://health-predictor-3uopoqgwgsyjbmporfpjew.streamlit.app/)
+[Access the Deployed App](https://health-predictor-okbj7fvazrwpztdyddu9i7.streamlit.app/)
 
 ## Overview
 
