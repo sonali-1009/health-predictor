@@ -19,7 +19,6 @@ def load_model(path):
     try:
         with open(path, "rb") as file:
             model = pickle.load(file)
-        st.success(f"Loaded model: {os.path.basename(path)}")
         return model
     except FileNotFoundError:
         st.error(f"Model file not found at: {path}")
